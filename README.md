@@ -17,7 +17,7 @@
 
 **Who I want to be in my next job**
 - I know I'm not your typical candidate: I don't have a computer science degree, I don't do web development (yet), and I don't even come from a 'heavily quantitative' natural science like physics.
-- I want to be the other perspective in the room. I want to apply my years of critical thinking experience to new problems and design solutions that go beyond the pedagogical norm for data science.
+- I want to be the other perspective in the room. I want to apply my years of critical thinking experience to new problems and design solutions that go beyond the pedagogical norm for data and computer science.
 - Clearly there will be some domain knowledge to acquire along the way. But I can't tell you how many new tools or software I've learned to use over the year, when the application need was right. So, I'm up for the challenge.
 
 **Fun fact**
