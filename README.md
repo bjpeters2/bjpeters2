@@ -4,7 +4,7 @@
 - 🌱 I’m currently adapting my analysis skills for business insight applications by learning more about machine learning techniques and how to select the right models for my analysis questions.
 - 📫 Send me an email at bjpeters2@gmail.com
 - 😄 Pronouns: he/him/his
-- 🗨️ English is my native language. Ich spreche auch Deutsch und verfüge über gute Kentnisse von Schweizerdeutschen. He estudiado español y entonces hablaba mucho, pero me siento que perdí mucho cuando aprendí alemán - solo necesito encontrarlo de nuevo!
+- 🗨️ English is my native language. Ich spreche auch Deutsch und verfüge über gute Kentnisse von Schweizerdeutschen. He estudiado español en el colegio y entonces hablaba mucho, pero me siento que perdí mucho cuando aprendí alemán - solo necesito encontrarlo de nuevo!
   
 **My analytics experience**
 - I'm trained as an analytical chemist, which means I place particular emphasis on assuring data quality (crap in/crap out).
